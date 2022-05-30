@@ -1,0 +1,45 @@
+.body{
+    background-color: dodgerblue;
+}
+.card__wrapper{
+    margin-top: 80px;
+    text-align: center;
+}
+.form{
+    text-align: center;
+}
+.form__label{
+    font-size: 32px;
+}
+.form__input{
+    width: 300px;
+    height: 40px;
+}
+.form__input::placeholder{
+    text-align: center;
+}
+.form__btn{
+    border-radius: 4px;
+    width: 200px;
+    height: 41px;
+    border: 1px solid rgb(11, 34, 94);
+    background: transparent;
+    font-size: 17px;
+}
+.card{
+    display: inline-block;
+    width: 280px;
+    height: 340px;
+}
+.card__img{
+    margin-top: 20px;
+    width: 140px;
+    height: 100px;
+}
+.card__heading{
+    margin-top: 50px;
+    font-size: 30px;
+}
+.card__result{
+    font-size: 26px;
+}
